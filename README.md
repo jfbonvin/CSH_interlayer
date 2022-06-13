@@ -1,6 +1,10 @@
 # CSH_interlayer
 Work perform during my Bachelor's project. The goal was to identify a method to analyze the interlayer charge distribution of a CSH structure.
-
+## General
+### data
+All the datas used are stored in the data folder, it contain the polyhedron as well as the structures and simulations files. They are stored in subfolder according to the analysis performed on each ones.
+### Project
+The project is stored in the project.pdf file, it provide all the informations needed regarding to this work.
 ## Qualitative overview
 ### cells_location.ipynb
 Program to locate a cell relatively to each other. This is done for a NxMxL CSH structure build with the pyCSH brick code.
