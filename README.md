@@ -17,7 +17,7 @@ Program to compute contours plot in the ab plane through the simulation.
 
 ## Quantitative overview
 ### nna_distance.ipynb
-Program to compute the nna distance analysis through the interlayer
+Program to compute the nna distance analysis through the interlayer.
 ### gamma.ipynb
 Program to compute the dispersion index of the interlayer, given the definition made in the project.
 ### enthalpy.ipynb
