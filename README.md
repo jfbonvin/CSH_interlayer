@@ -8,15 +8,17 @@ The project is stored in the project.pdf file, it provide all the informations n
 ## Qualitative overview
 ### cells_location.ipynb
 Program to locate a cell relatively to each other. This is done for a NxMxL CSH structure build with the pyCSH brick code.
-### contour_initial.ipynb
+### contours_initial.ipynb
 Program to compute contours plot in the bc plane and in the ab plane for the initial structure.
-### contour_bc.ipynb
+### contours_bc.ipynb
 Program to compute contours plot in the bc plane through the simulation.
-### contour_ab.ipynb
+### contours_ab.ipynb
 Program to compute contours plot in the ab plane through the simulation.
 
 ## Quantitative overview
-### cell_gamma.ipynb
+### nna_distance.ipynb
+Program to compute the nna distance analysis through the interlayer
+### gamma.ipynb
 Program to compute the dispersion index of the interlayer, given the definition made in the project.
 ### enthalpy.ipynb
 Program to compute the enthalpy of a structure through the simulations in order to understand the energetical stability of the structure.
